@@ -173,12 +173,12 @@ Recommendations: Immediate victim protection, collect bat for forensics
 - **Advanced NLP**: Integration with large language models
 - **Video Analysis**: Motion detection and behavioral analysis
 - **Mobile App**: Field investigation support
-- **Database Integration**: Case management system connectivity, a better Corpus
+- **Database Integration**: Case management system connectivity, a better corpus too
 - **Multi-language Support**: International deployment capability
 
 ## 🤝 Contributing
 
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions!
 
 ### Development Setup
 ```bash
